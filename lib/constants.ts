@@ -1,0 +1,1 @@
+export const TMDB_ACCESS_TOKEN_REQUIRED = "TMDB_ACCESS_TOKEN is required";
